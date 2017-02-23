@@ -1,12 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="ConsoleApplication4.A">
-    <Position X="3.75" Y="0.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAABAAAAAAAAAAAACAAAAAAABAAgAAAAAAAAAAAAA=</HashCode>
-      <FileName>Program.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="ConsoleApplication4.B">
     <Position X="3.75" Y="2.25" Width="1.5" />
     <TypeIdentifier>
@@ -26,6 +19,23 @@
     <TypeIdentifier>
       <HashCode>AAAAAgAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication4.A">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ConsoleApplication4.A.asd" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>A.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAACAAAAAAABAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>A.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Tahoma" Size="8.25" />

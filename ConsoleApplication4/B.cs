@@ -9,13 +9,13 @@ namespace ConsoleApplication4
     {
         protected void S4()
         {
-            Console.WriteLine("B::V1");
+            Console.WriteLine("B::S4");
             V1();
         }
 
         public void S5()
         {
-            Console.WriteLine("B::S3");
+            Console.WriteLine("B::S5");
             S3();
         }
 
